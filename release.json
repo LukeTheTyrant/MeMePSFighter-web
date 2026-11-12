@@ -1,25 +1,25 @@
 {
   "files": [
     "index.html",
-    "game.9e1c470e4b2789d8.js",
-    "game.9ee951abc257f161.wasm",
-    "game.3b064b046170c8b6.data",
+    "game.2829e7fd3e0197e3.js",
+    "game.d01f2465243a0be9.wasm",
+    "game.5e2c8d0a8e17fd6f.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.3b064b046170c8b6.data",
-    "index.wasm": "game.9ee951abc257f161.wasm",
-    "index.js": "game.9e1c470e4b2789d8.js"
+    "index.data": "game.5e2c8d0a8e17fd6f.data",
+    "index.wasm": "game.d01f2465243a0be9.wasm",
+    "index.js": "game.2829e7fd3e0197e3.js"
   },
   "files_sha256": {
-    "index.html": "8fe4b3d2fd706528ed65925ed18c85217873d770dae7337947b8907ca49f7f95",
-    "game.9e1c470e4b2789d8.js": "9e1c470e4b2789d8589fe83c192c03b371a06b6936a2d6855d7a8d14c90633bf",
-    "game.9ee951abc257f161.wasm": "9ee951abc257f161bf18af60ec4ee13ae297349cdd3409346061d216df9c21dc",
-    "game.3b064b046170c8b6.data": "3b064b046170c8b68959aa3f0170cd2843705652206fb8d2ea3eb8d098b1ae65",
+    "index.html": "55ce9f8ffb0402199335eb584837b50ce09f6b8f5d12a007cbff35269d8cb3f6",
+    "game.2829e7fd3e0197e3.js": "2829e7fd3e0197e3b849e97330090c3f659c624d838ded8123d31ca7ccdd5af9",
+    "game.d01f2465243a0be9.wasm": "d01f2465243a0be9ce33538eefd7626e1873a95e6b8d0d9b5f118ab32e509bd2",
+    "game.5e2c8d0a8e17fd6f.data": "5e2c8d0a8e17fd6f2b2f9a8d0a67cb003879c0360fb4da43d3f7604daff87224",
     "THIRD-PARTY-NOTICES.txt": "79c728c62e332e1ddb3e9fab93200ac74593d2228d66f577e7f924654d288db6"
   },
   "source_branch": "main",
   "source_commit": "5f40320e92db72b07efffb23e09a3e8db614b693",
   "source_worktree_dirty": true,
-  "source_description": "Pilotos mecanicos LP 200 e MK 240 do Capota/Ken; MK com caixas, PosAdd, controle e reacoes da referencia. Alteracoes locais ainda sem commit; identidade exata do pacote nos hashes dos artefatos."
+  "source_description": "Locomocao Estevam Zangief normal AIR 20/21: dez desenhos por direcao, atlas novo. Inclui pilotos LP/MK do Capota e entregas anteriores. Alteracoes locais ainda sem commit; identidade exata nos hashes dos artefatos."
 }
