@@ -1,25 +1,23 @@
 {
   "files": [
     "index.html",
-    "game.70339bb6327942a5.js",
-    "game.e0f2104dd3c04248.wasm",
+    "game.90dbb6868a6a0bdb.js",
+    "game.f99bb158e3b85a58.wasm",
     "game.0838ba511ab1d907.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.0838ba511ab1d907.data",
-    "index.wasm": "game.e0f2104dd3c04248.wasm",
-    "index.js": "game.70339bb6327942a5.js"
+    "index.wasm": "game.f99bb158e3b85a58.wasm",
+    "index.js": "game.90dbb6868a6a0bdb.js"
   },
   "files_sha256": {
-    "index.html": "d7d509fbbc277b2030164a05c191d50f2d39fa79e584416f467efb0f5d896d8b",
-    "game.70339bb6327942a5.js": "70339bb6327942a51aded7c60ecd1f0516fc2f52b4f609822d3a275bb607c6f8",
-    "game.e0f2104dd3c04248.wasm": "e0f2104dd3c0424813d4797333d1041e42b3f1ef3c5b6df3c7749b2777e6df27",
+    "index.html": "4bd8244fdd65b097f11ca2b7cf4d46a25339399869540ac1be3b5a0200957bdd",
+    "game.90dbb6868a6a0bdb.js": "90dbb6868a6a0bdbad7423a29f2adf8098cc64f67f116936209cb95e7a1473df",
+    "game.f99bb158e3b85a58.wasm": "f99bb158e3b85a58cd419f84e1e2c0fdb1d26eb8184d95d278590255b44992b1",
     "game.0838ba511ab1d907.data": "0838ba511ab1d90786b1f40a34e6f15b1fc03379dd4fa671008029b2bdcf1b53",
     "THIRD-PARTY-NOTICES.txt": "79c728c62e332e1ddb3e9fab93200ac74593d2228d66f577e7f924654d288db6"
   },
-  "source": {
-    "branch": "otimizacao-padronizacao-personagens",
-    "commit": "53069b3895f8fa61cd2267b6dc1e8fffe9b20c75"
-  }
+  "source_branch": "main",
+  "source_commit": "a0a6924fba7ca6ae1abb98c930a42c4b7f5c7d7b"
 }
