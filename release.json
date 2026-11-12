@@ -1,25 +1,25 @@
 {
   "files": [
     "index.html",
-    "game.5dd688ba43800a19.js",
-    "game.37118b4b288c1d47.wasm",
+    "game.9e1c470e4b2789d8.js",
+    "game.9ee951abc257f161.wasm",
     "game.3b064b046170c8b6.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.3b064b046170c8b6.data",
-    "index.wasm": "game.37118b4b288c1d47.wasm",
-    "index.js": "game.5dd688ba43800a19.js"
+    "index.wasm": "game.9ee951abc257f161.wasm",
+    "index.js": "game.9e1c470e4b2789d8.js"
   },
   "files_sha256": {
-    "index.html": "ac496f63d2cc98fc9c3f996e88600ae8a3781c079f01e38b44da857258188121",
-    "game.5dd688ba43800a19.js": "5dd688ba43800a191d94dc0bdc51c5b831b0c37efc8d1d1a76d9e249a3c5ec73",
-    "game.37118b4b288c1d47.wasm": "37118b4b288c1d47e69984d196421a56ba2ff7f98f63cf62e2354f0157a734ba",
+    "index.html": "8fe4b3d2fd706528ed65925ed18c85217873d770dae7337947b8907ca49f7f95",
+    "game.9e1c470e4b2789d8.js": "9e1c470e4b2789d8589fe83c192c03b371a06b6936a2d6855d7a8d14c90633bf",
+    "game.9ee951abc257f161.wasm": "9ee951abc257f161bf18af60ec4ee13ae297349cdd3409346061d216df9c21dc",
     "game.3b064b046170c8b6.data": "3b064b046170c8b68959aa3f0170cd2843705652206fb8d2ea3eb8d098b1ae65",
     "THIRD-PARTY-NOTICES.txt": "79c728c62e332e1ddb3e9fab93200ac74593d2228d66f577e7f924654d288db6"
   },
   "source_branch": "main",
   "source_commit": "5f40320e92db72b07efffb23e09a3e8db614b693",
   "source_worktree_dirty": true,
-  "source_description": "Piloto mecanico LP Capota/Ken 200, com alteracoes locais ainda sem commit; identidade exata do pacote nos hashes dos artefatos."
+  "source_description": "Pilotos mecanicos LP 200 e MK 240 do Capota/Ken; MK com caixas, PosAdd, controle e reacoes da referencia. Alteracoes locais ainda sem commit; identidade exata do pacote nos hashes dos artefatos."
 }
