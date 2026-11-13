@@ -1,25 +1,25 @@
 {
   "files": [
     "index.html",
-    "game.2829e7fd3e0197e3.js",
+    "game.9111a3a5d6664942.js",
     "game.d01f2465243a0be9.wasm",
-    "game.5e2c8d0a8e17fd6f.data",
+    "game.f29c14795440c6cc.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.5e2c8d0a8e17fd6f.data",
+    "index.data": "game.f29c14795440c6cc.data",
     "index.wasm": "game.d01f2465243a0be9.wasm",
-    "index.js": "game.2829e7fd3e0197e3.js"
+    "index.js": "game.9111a3a5d6664942.js"
   },
   "files_sha256": {
-    "index.html": "55ce9f8ffb0402199335eb584837b50ce09f6b8f5d12a007cbff35269d8cb3f6",
-    "game.2829e7fd3e0197e3.js": "2829e7fd3e0197e3b849e97330090c3f659c624d838ded8123d31ca7ccdd5af9",
+    "index.html": "6b7916d888a47ddfb0905ee8c2ad3dd998c1b3117ad1eff14c4271c74f199456",
+    "game.9111a3a5d6664942.js": "9111a3a5d66649422906ae3d1111f24d1dd33f50ba8fc530185c9ac886135a99",
     "game.d01f2465243a0be9.wasm": "d01f2465243a0be9ce33538eefd7626e1873a95e6b8d0d9b5f118ab32e509bd2",
-    "game.5e2c8d0a8e17fd6f.data": "5e2c8d0a8e17fd6f2b2f9a8d0a67cb003879c0360fb4da43d3f7604daff87224",
+    "game.f29c14795440c6cc.data": "f29c14795440c6cc5730bd74681c29ba4d8ead915824c5a446a0ce482623d1ac",
     "THIRD-PARTY-NOTICES.txt": "79c728c62e332e1ddb3e9fab93200ac74593d2228d66f577e7f924654d288db6"
   },
   "source_branch": "main",
-  "source_commit": "5f40320e92db72b07efffb23e09a3e8db614b693",
+  "source_commit": "a7df8e65dbe83dc43e068ac38fdc831d91dc9534",
   "source_worktree_dirty": true,
-  "source_description": "Locomocao Estevam Zangief normal AIR 20/21: dez desenhos por direcao, atlas novo. Inclui pilotos LP/MK do Capota e entregas anteriores. Alteracoes locais ainda sem commit; identidade exata nos hashes dos artefatos."
+  "source_description": "Otimizacao incremental: preload reduzido de 58 para 52 PNGs, somente seis arquivos comprovadamente sem uso; sprites e logica preservados. Detalhes em assets/reports/web_preload_2026-11-13.json."
 }
