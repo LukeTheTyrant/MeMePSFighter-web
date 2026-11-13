@@ -49,25 +49,25 @@
   ],
   "files": [
     "index.html",
-    "game.ed5ba0e95a77a1eb.js",
-    "game.4d441b8432b000fe.wasm",
+    "game.b37fabd08dcdf04b.js",
+    "game.bbef6c9e80d06048.wasm",
     "game.0c3d751b6d4e376d.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.0c3d751b6d4e376d.data",
-    "index.wasm": "game.4d441b8432b000fe.wasm",
-    "index.js": "game.ed5ba0e95a77a1eb.js"
+    "index.wasm": "game.bbef6c9e80d06048.wasm",
+    "index.js": "game.b37fabd08dcdf04b.js"
   },
   "files_sha256": {
-    "index.html": "6501d30449bdad4a5e160102764732cb6f0e0b29cd4e9f59d221a59c54adb322",
-    "game.ed5ba0e95a77a1eb.js": "ed5ba0e95a77a1ebf62a886d6865fd55f858be92056f010b4b9fd6eac4350fba",
-    "game.4d441b8432b000fe.wasm": "4d441b8432b000fe4b27be684c762352abb2276d485cdc6c922d4c4f982113ac",
+    "index.html": "6743f511eb9a6654d1e93072bf671546f60a695361ff9dd6285e1b3c05657d2c",
+    "game.b37fabd08dcdf04b.js": "b37fabd08dcdf04b39818569db8fcfcb982c643b37b98e050e2a3114e3df388b",
+    "game.bbef6c9e80d06048.wasm": "bbef6c9e80d060486c2281edbffbb56e4907e93ac56222b6746d1c94bd1e1c06",
     "game.0c3d751b6d4e376d.data": "0c3d751b6d4e376dfcff3a67a6493240240a31fb1fde3eff6070ff50f5e2dcd0",
     "THIRD-PARTY-NOTICES.txt": "e624bdf2ccc44609a0333ead60a99cb76e57ad152a070bbe07832a16fbff08a4"
   },
   "source_commit": "244e8269535b8101f23987550a5d96601013bb9e",
   "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "CPU Tournament: abas clicaveis e navegacao A/D ou setas; Tab consulta tabelas durante a luta com combate suspenso e retorno ao mesmo confronto; pagina escolhida preservada apos resultados. Cada proxima luta continua dependendo de Enter."
+  "source_description": "CPU Tournament: navegacao por clique/setas/A-D e consulta Tab preservadas; classificacao geral final 1-12 por fase de eliminacao, desempate por seed suico, campanha total. Classificacao geral deixada para teste do criador por solicitacao explicita; somente compilacao web nesta alteracao."
 }
