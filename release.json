@@ -147,25 +147,42 @@
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
       "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
       "sha256": "6d64f77f521230d9cfc2cb64c36201fb39bc1db7a80c1757f363f4cfba361f38"
+    },
+    {
+      "path": "technical/lucas/Lucas_normals_reference_atlas_v1.png",
+      "character_id": "lucas",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/guy/",
+      "credits": "Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe como visual tecnico temporario do Lucas; pacote original e demais acoes fora do preload.",
+      "sha256": "f5e45ace2a0f881ef3ebc69d3df7db4d331db3f831529cccc7377bf6371d0ddc"
     }
   ],
   "files": [
     "index.html",
-    "game.4d8d24caf6b12ae4.js",
-    "game.144d00e5d79cf5b7.wasm",
-    "game.1d7aab88c022e4b5.data",
+    "game.3c4bfa5dc2c00611.js",
+    "game.df009be5a7763fe8.wasm",
+    "game.14f2f5049f364f0a.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.1d7aab88c022e4b5.data",
-    "index.wasm": "game.144d00e5d79cf5b7.wasm",
-    "index.js": "game.4d8d24caf6b12ae4.js"
+    "index.data": "game.14f2f5049f364f0a.data",
+    "index.wasm": "game.df009be5a7763fe8.wasm",
+    "index.js": "game.3c4bfa5dc2c00611.js"
   },
   "files_sha256": {
-    "index.html": "06f95325b544ba5362092989c198609c51db455f495c6cd2310f91250e5d1780",
-    "game.4d8d24caf6b12ae4.js": "4d8d24caf6b12ae44c4b15a96d55121a928bd11fd4012e58af2ce06ade02e828",
-    "game.144d00e5d79cf5b7.wasm": "144d00e5d79cf5b720920a43ab3b845fcbed1b34b9497c52d41546c4d9a1eed9",
-    "game.1d7aab88c022e4b5.data": "1d7aab88c022e4b5aaabd219d4c7a4340efca33fce52368bc38c44e4f3a32f51",
-    "THIRD-PARTY-NOTICES.txt": "6d2103f28ccec1938ef440054c3d04cc3a20d178cde1bc23eac646332e063bc9"
+    "index.html": "ef64ea5ff4e34cb7eebc45b8f9ad0c35ce16caaa226439b28cdd5abb26416c2e",
+    "game.3c4bfa5dc2c00611.js": "3c4bfa5dc2c006115eb1728dfffa6a7e0a8b5deb26def1f8cf5cf4eb5c671015",
+    "game.df009be5a7763fe8.wasm": "df009be5a7763fe8a068d1ff40dcc35e7b3701431c51d9b7fb3e65564ff57028",
+    "game.14f2f5049f364f0a.data": "14f2f5049f364f0ae5e97316dcfb5c6322d75e0af009f9d791cf00f7e6d6f40b",
+    "THIRD-PARTY-NOTICES.txt": "5ecdc91f0b6c8ef97376fc6fd3b10da126202276562b4399bea226d7cc9d9375"
   }
 }

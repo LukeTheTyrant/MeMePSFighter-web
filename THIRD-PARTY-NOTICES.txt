@@ -64,3 +64,5 @@ Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e aviso
 Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
 Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e avisos preservados.
 Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.
