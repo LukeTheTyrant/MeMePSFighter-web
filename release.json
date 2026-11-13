@@ -49,25 +49,25 @@
   ],
   "files": [
     "index.html",
-    "game.cd68860358cb610c.js",
-    "game.c0168b3c6f2c90d5.wasm",
+    "game.a51165f6edbe015d.js",
+    "game.4bc9c31730b82882.wasm",
     "game.0c3d751b6d4e376d.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.0c3d751b6d4e376d.data",
-    "index.wasm": "game.c0168b3c6f2c90d5.wasm",
-    "index.js": "game.cd68860358cb610c.js"
+    "index.wasm": "game.4bc9c31730b82882.wasm",
+    "index.js": "game.a51165f6edbe015d.js"
   },
   "files_sha256": {
-    "index.html": "8e4b1cc9fc533246d50c79c41e075918cfb28cf70b355e1b8deec0f6d3c6d188",
-    "game.cd68860358cb610c.js": "cd68860358cb610c34c80c7d19b835a428edf93568006eb38b44f1c9b811c038",
-    "game.c0168b3c6f2c90d5.wasm": "c0168b3c6f2c90d53b5a338baef23b74b6da86379f1182fe662a3182b2b7e25a",
+    "index.html": "80856a5386c03432bf5cc523457eca4cce039f1420929340fe2f1a96a16edf34",
+    "game.a51165f6edbe015d.js": "a51165f6edbe015d2b4eea753cabaa7d1bc88e00baa7b8afd64b2a12d9a3da91",
+    "game.4bc9c31730b82882.wasm": "4bc9c31730b828820024ab871b417ccc1bff0e0636588bdb9fc0f519fa13b113",
     "game.0c3d751b6d4e376d.data": "0c3d751b6d4e376dfcff3a67a6493240240a31fb1fde3eff6070ff50f5e2dcd0",
     "THIRD-PARTY-NOTICES.txt": "e624bdf2ccc44609a0333ead60a99cb76e57ad152a070bbe07832a16fbff08a4"
   },
   "source_commit": "244e8269535b8101f23987550a5d96601013bb9e",
   "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "CPU Tournament local: 3 rodadas suicas provisorias, top8 superior /4 inferior, eliminacao dupla com reset, painel e progressao automatica; base anterior comitada e enviada antes desta tarefa."
+  "source_description": "Regulamento CPU Tournament 12: quatro rodadas suicas, cinco desempates com placares reais, escadinha e inferior exata, 42/43 confrontos, dependencias independentes e selecao de lutas prontas. Ajuste posterior ao build apenas de espaco/branca em callback, sem mudanca de comportamento."
 }
