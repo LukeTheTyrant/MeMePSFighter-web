@@ -49,25 +49,25 @@
   ],
   "files": [
     "index.html",
-    "game.02ac894a68f16368.js",
-    "game.116dc76d33aab590.wasm",
+    "game.ed5ba0e95a77a1eb.js",
+    "game.4d441b8432b000fe.wasm",
     "game.0c3d751b6d4e376d.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.0c3d751b6d4e376d.data",
-    "index.wasm": "game.116dc76d33aab590.wasm",
-    "index.js": "game.02ac894a68f16368.js"
+    "index.wasm": "game.4d441b8432b000fe.wasm",
+    "index.js": "game.ed5ba0e95a77a1eb.js"
   },
   "files_sha256": {
-    "index.html": "2224f4ebe1c5765ce63d917cfbdac8a9e3ae32f449a59e7a0a9c811c411e72b4",
-    "game.02ac894a68f16368.js": "02ac894a68f16368b84025b5e781b5de0afcfb11e3a9436c09853d1e1b9a1aa9",
-    "game.116dc76d33aab590.wasm": "116dc76d33aab5901c648826946e4d76dc8171e2438e050c99a148fa6c5b5a41",
+    "index.html": "6501d30449bdad4a5e160102764732cb6f0e0b29cd4e9f59d221a59c54adb322",
+    "game.ed5ba0e95a77a1eb.js": "ed5ba0e95a77a1ebf62a886d6865fd55f858be92056f010b4b9fd6eac4350fba",
+    "game.4d441b8432b000fe.wasm": "4d441b8432b000fe4b27be684c762352abb2276d485cdc6c922d4c4f982113ac",
     "game.0c3d751b6d4e376d.data": "0c3d751b6d4e376dfcff3a67a6493240240a31fb1fde3eff6070ff50f5e2dcd0",
     "THIRD-PARTY-NOTICES.txt": "e624bdf2ccc44609a0333ead60a99cb76e57ad152a070bbe07832a16fbff08a4"
   },
   "source_commit": "244e8269535b8101f23987550a5d96601013bb9e",
   "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "CPU Tournament: cada confronto aguarda Enter principal/numerico; removidos inicio por tempo, alternancia por Espaco e confirmacao U no painel. Regulamento e combate preservados. Chutes do Capota inalterados nesta entrega."
+  "source_description": "CPU Tournament: abas clicaveis e navegacao A/D ou setas; Tab consulta tabelas durante a luta com combate suspenso e retorno ao mesmo confronto; pagina escolhida preservada apos resultados. Cada proxima luta continua dependendo de Enter."
 }
