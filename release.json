@@ -12,29 +12,62 @@
       "authorization_basis": "Declaracao do criador no chat em 13/11/2026: possui autorizacao do titular para uso tecnico local e confirmou que inclui publicacao online. Nao constitui declaracao de licenca irrestrita.",
       "scope": "Quadros originais do MP Ken AIR 210 como animacao provisoria do Capota; somente perfil tecnico.",
       "sha256": "5f22d535d9e6df1d0414081492882a4af4113d27ea1d3f7e6c3832b99c6c0eb7"
+    },
+    {
+      "path": "technical/capota/Capota_Ken_normals_reference_atlas_v1.png",
+      "character_id": "02_cabelo_comprido",
+      "moves": [
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/sf3_ken_gm/",
+      "credits": "Ken / Street Fighter III: Capcom; adaptacao MUGEN GM (2008-08-31).",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.",
+      "scope": "Somente movimentos listados em moves, exportados como animacao tecnica provisoria opt-in.",
+      "sha256": "71575db2f9032ab8ddda1a2bd185ce68d9d2fb608ce27b6502dd33291a5619dc"
+    },
+    {
+      "path": "technical/estevam/Estevam_Zangief_normals_reference_atlas_v1.png",
+      "character_id": "03_barba_camiseta_preta",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/zangief_dark_shade/",
+      "credits": "Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.",
+      "scope": "Somente movimentos listados em moves, exportados como animacao tecnica provisoria opt-in.",
+      "sha256": "57a396c3b440e4da6c487be962f43ccb1bb5ea9e54665784b53874f028867edb"
     }
   ],
   "files": [
     "index.html",
-    "game.a38ba4bf290cc355.js",
-    "game.fb86894a037f3fba.wasm",
-    "game.12121ef7b5dead2f.data",
+    "game.a429b00d96713f55.js",
+    "game.c6fcdf5aa07efcb8.wasm",
+    "game.0c3d751b6d4e376d.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.12121ef7b5dead2f.data",
-    "index.wasm": "game.fb86894a037f3fba.wasm",
-    "index.js": "game.a38ba4bf290cc355.js"
+    "index.data": "game.0c3d751b6d4e376d.data",
+    "index.wasm": "game.c6fcdf5aa07efcb8.wasm",
+    "index.js": "game.a429b00d96713f55.js"
   },
   "files_sha256": {
-    "index.html": "2b584a57f5d0cf0d77f2b6b27aa9a374fd49802e3c02904e19b63882a5b45e99",
-    "game.a38ba4bf290cc355.js": "a38ba4bf290cc3557cd24f442a842dca8e25c37c76c97ec4cc6d6a060dfd782a",
-    "game.fb86894a037f3fba.wasm": "fb86894a037f3fba197bac5e9d9f3e5859eb92632c252b24edf42444924ebb33",
-    "game.12121ef7b5dead2f.data": "12121ef7b5dead2f0bac2ba5f002c01ba6ed024a6760e69a67c53cd1b9a5d771",
-    "THIRD-PARTY-NOTICES.txt": "f9e006c7ccf6f04a9c7689f00dae7c1b45875fe5a042ad3aa2d3786dfa8546a8"
+    "index.html": "ecfe784862bcd2d8aee7d437108ef36fed7b55b1cdf2cd64f34c2e54353c3094",
+    "game.a429b00d96713f55.js": "a429b00d96713f55583325f461e6956d818c92f76867764a03ec1118e3edaa93",
+    "game.c6fcdf5aa07efcb8.wasm": "c6fcdf5aa07efcb8603e2b09b50c5ef2c030cb5c29865f089f2a94fb00929b5c",
+    "game.0c3d751b6d4e376d.data": "0c3d751b6d4e376dfcff3a67a6493240240a31fb1fde3eff6070ff50f5e2dcd0",
+    "THIRD-PARTY-NOTICES.txt": "e624bdf2ccc44609a0333ead60a99cb76e57ad152a070bbe07832a16fbff08a4"
   },
   "source_commit": "a7df8e65dbe83dc43e068ac38fdc831d91dc9534",
   "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "MP Capota Ken/GM 210 tecnico autorizado, seis comandos e selecao por modo; altera\u00e7\u00f5es locais incluindo selecao previa do preload"
+  "source_description": "Seis normais em pe Capota/Estevam: HP LK HK Ken e MP HP LK HK Zangief normal, referencias tecnicas autorizadas; navegacao vertical na selecao. LP/MK e MP Capota aprovado preservados; alteracoes locais incluindo preload anterior."
 }

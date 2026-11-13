@@ -48,3 +48,7 @@ THE SOFTWARE.
 Technical reference animation assets
 Ken / Street Fighter III: arte de referencia Capcom; adaptacao MUGEN GM (2008-08-31).
 Declaracao do criador no chat em 13/11/2026: possui autorizacao do titular para uso tecnico local e confirmou que inclui publicacao online. Nao constitui declaracao de licenca irrestrita.
+Ken / Street Fighter III: Capcom; adaptacao MUGEN GM (2008-08-31).
+Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
+Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.
+Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
