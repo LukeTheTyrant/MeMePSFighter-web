@@ -52,3 +52,5 @@ Ken / Street Fighter III: Capcom; adaptacao MUGEN GM (2008-08-31).
 Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
 Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.
 Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
+Blanka / Street Fighter: Capcom; adaptacao MUGEN H” (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.
+Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.

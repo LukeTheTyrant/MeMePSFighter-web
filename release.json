@@ -45,29 +45,46 @@
       "authorization_basis": "Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.",
       "scope": "Somente movimentos listados em moves, exportados como animacao tecnica provisoria opt-in.",
       "sha256": "57a396c3b440e4da6c487be962f43ccb1bb5ea9e54665784b53874f028867edb"
+    },
+    {
+      "path": "technical/andre/Andre_Blanka_normals_reference_atlas_v1.png",
+      "character_id": "04_jaqueta_escura",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/blanka1/",
+      "credits": "Blanka / Street Fighter: Capcom; adaptacao MUGEN H\u201d (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe, como visual tecnico temporario do Andre; demais sprites nao incluidos no preload.",
+      "sha256": "b1abe01b8e1ba272a3a2d17cf4e2e2fdac39e3ae2c2c0f8b798166dbd54a63ff"
     }
   ],
   "files": [
     "index.html",
-    "game.b37fabd08dcdf04b.js",
-    "game.bbef6c9e80d06048.wasm",
-    "game.0c3d751b6d4e376d.data",
+    "game.d411f701ae11b871.js",
+    "game.df85b6e6922d6f1b.wasm",
+    "game.d20a0dd7bc39e54a.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.0c3d751b6d4e376d.data",
-    "index.wasm": "game.bbef6c9e80d06048.wasm",
-    "index.js": "game.b37fabd08dcdf04b.js"
+    "index.data": "game.d20a0dd7bc39e54a.data",
+    "index.wasm": "game.df85b6e6922d6f1b.wasm",
+    "index.js": "game.d411f701ae11b871.js"
   },
   "files_sha256": {
-    "index.html": "6743f511eb9a6654d1e93072bf671546f60a695361ff9dd6285e1b3c05657d2c",
-    "game.b37fabd08dcdf04b.js": "b37fabd08dcdf04b39818569db8fcfcb982c643b37b98e050e2a3114e3df388b",
-    "game.bbef6c9e80d06048.wasm": "bbef6c9e80d060486c2281edbffbb56e4907e93ac56222b6746d1c94bd1e1c06",
-    "game.0c3d751b6d4e376d.data": "0c3d751b6d4e376dfcff3a67a6493240240a31fb1fde3eff6070ff50f5e2dcd0",
-    "THIRD-PARTY-NOTICES.txt": "e624bdf2ccc44609a0333ead60a99cb76e57ad152a070bbe07832a16fbff08a4"
+    "index.html": "daa4807988814b46fe26eec2ae9bbd47bec3b7a7cb0c0686941e712e94cc2178",
+    "game.d411f701ae11b871.js": "d411f701ae11b871dbb95cebbe8d7d51d1e16adde4d5fa9d820491bcc3bf49a8",
+    "game.df85b6e6922d6f1b.wasm": "df85b6e6922d6f1bad8b3ea37cf1788b2ee979af81f2c6eb7c1d6ebc921f9aba",
+    "game.d20a0dd7bc39e54a.data": "d20a0dd7bc39e54a275fccd67336e11da60e42f906f87da0b23e6dd4e7467473",
+    "THIRD-PARTY-NOTICES.txt": "34a5e60f6c57b920394874d14d3905f1b9dfbb1098ace204d909ee7bb51822d2"
   },
   "source_commit": "244e8269535b8101f23987550a5d96601013bb9e",
   "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "CPU Tournament: navegacao por clique/setas/A-D e consulta Tab preservadas; classificacao geral final 1-12 por fase de eliminacao, desempate por seed suico, campanha total. Classificacao geral deixada para teste do criador por solicitacao explicita; somente compilacao web nesta alteracao."
+  "source_description": "Andre/Blanka1: MP HP LK HK com sprites tecnicos autorizados; LP/MK e demais acoes preservadas; 56 PNGs. Testes de combate/animacao executados antes da nova orientacao de pedir autorizacao previa; testes seguintes ficam com criador. Guilherme/Gouki e Bareta/Ryu registrados apenas como referencias futuras, sem alteracao de runtime."
 }
