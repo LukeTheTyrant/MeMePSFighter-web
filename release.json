@@ -49,25 +49,25 @@
   ],
   "files": [
     "index.html",
-    "game.a51165f6edbe015d.js",
-    "game.4bc9c31730b82882.wasm",
+    "game.02ac894a68f16368.js",
+    "game.116dc76d33aab590.wasm",
     "game.0c3d751b6d4e376d.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.0c3d751b6d4e376d.data",
-    "index.wasm": "game.4bc9c31730b82882.wasm",
-    "index.js": "game.a51165f6edbe015d.js"
+    "index.wasm": "game.116dc76d33aab590.wasm",
+    "index.js": "game.02ac894a68f16368.js"
   },
   "files_sha256": {
-    "index.html": "80856a5386c03432bf5cc523457eca4cce039f1420929340fe2f1a96a16edf34",
-    "game.a51165f6edbe015d.js": "a51165f6edbe015d2b4eea753cabaa7d1bc88e00baa7b8afd64b2a12d9a3da91",
-    "game.4bc9c31730b82882.wasm": "4bc9c31730b828820024ab871b417ccc1bff0e0636588bdb9fc0f519fa13b113",
+    "index.html": "2224f4ebe1c5765ce63d917cfbdac8a9e3ae32f449a59e7a0a9c811c411e72b4",
+    "game.02ac894a68f16368.js": "02ac894a68f16368b84025b5e781b5de0afcfb11e3a9436c09853d1e1b9a1aa9",
+    "game.116dc76d33aab590.wasm": "116dc76d33aab5901c648826946e4d76dc8171e2438e050c99a148fa6c5b5a41",
     "game.0c3d751b6d4e376d.data": "0c3d751b6d4e376dfcff3a67a6493240240a31fb1fde3eff6070ff50f5e2dcd0",
     "THIRD-PARTY-NOTICES.txt": "e624bdf2ccc44609a0333ead60a99cb76e57ad152a070bbe07832a16fbff08a4"
   },
   "source_commit": "244e8269535b8101f23987550a5d96601013bb9e",
   "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "Regulamento CPU Tournament 12: quatro rodadas suicas, cinco desempates com placares reais, escadinha e inferior exata, 42/43 confrontos, dependencias independentes e selecao de lutas prontas. Ajuste posterior ao build apenas de espaco/branca em callback, sem mudanca de comportamento."
+  "source_description": "CPU Tournament: cada confronto aguarda Enter principal/numerico; removidos inicio por tempo, alternancia por Espaco e confirmacao U no painel. Regulamento e combate preservados. Chutes do Capota inalterados nesta entrega."
 }
