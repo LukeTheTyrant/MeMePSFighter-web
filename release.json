@@ -62,29 +62,110 @@
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.",
       "scope": "MP/HP/LK/HK em pe, como visual tecnico temporario do Andre; demais sprites nao incluidos no preload.",
       "sha256": "b1abe01b8e1ba272a3a2d17cf4e2e2fdac39e3ae2c2c0f8b798166dbd54a63ff"
+    },
+    {
+      "path": "technical/altair/Altair_normals_reference_atlas_v1.png",
+      "character_id": "01_oculos_polo",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/mbison0/",
+      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN VK; atualizacao Dripht. Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
+      "sha256": "2ce5132064ae6d48f7761e60ed0a1d6dc14bab3a40b7e09eb2e4d90ada423cb6"
+    },
+    {
+      "path": "technical/nicky/Nicky_normals_reference_atlas_v1.png",
+      "character_id": "nicky",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/Dhalsim_A/",
+      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
+      "sha256": "0d6ea1261777efe81cf5d14ba2c0238218f4558de7f48c4b2860fffba06b53d5"
+    },
+    {
+      "path": "technical/gustavo/Gustavo_normals_reference_atlas_v1.png",
+      "character_id": "gustavo",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/SFZ_Sagat/",
+      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Ehnyd. Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
+      "sha256": "a89ecf15fa2c2013dc4b35a0698cb9692c94d00fd74d542e10ca4b6f63fd8c60"
+    },
+    {
+      "path": "technical/guilherme/Guilherme_normals_reference_atlas_v1.png",
+      "character_id": "guilherme",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/sf3_gouki/",
+      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
+      "sha256": "73845ded5094e61532637fec9c760eac1ff31f354f4ec4bdb105e39fad365402"
+    },
+    {
+      "path": "technical/bareta/Bareta_normals_reference_atlas_v1.png",
+      "character_id": "bareta",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/sf3_ryu/",
+      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
+      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
+      "sha256": "6d64f77f521230d9cfc2cb64c36201fb39bc1db7a80c1757f363f4cfba361f38"
     }
   ],
   "files": [
     "index.html",
-    "game.d411f701ae11b871.js",
-    "game.df85b6e6922d6f1b.wasm",
-    "game.d20a0dd7bc39e54a.data",
+    "game.87d3d814f538357a.js",
+    "game.108feaf15af23fb5.wasm",
+    "game.1d7aab88c022e4b5.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.d20a0dd7bc39e54a.data",
-    "index.wasm": "game.df85b6e6922d6f1b.wasm",
-    "index.js": "game.d411f701ae11b871.js"
+    "index.data": "game.1d7aab88c022e4b5.data",
+    "index.wasm": "game.108feaf15af23fb5.wasm",
+    "index.js": "game.87d3d814f538357a.js"
   },
   "files_sha256": {
-    "index.html": "daa4807988814b46fe26eec2ae9bbd47bec3b7a7cb0c0686941e712e94cc2178",
-    "game.d411f701ae11b871.js": "d411f701ae11b871dbb95cebbe8d7d51d1e16adde4d5fa9d820491bcc3bf49a8",
-    "game.df85b6e6922d6f1b.wasm": "df85b6e6922d6f1bad8b3ea37cf1788b2ee979af81f2c6eb7c1d6ebc921f9aba",
-    "game.d20a0dd7bc39e54a.data": "d20a0dd7bc39e54a275fccd67336e11da60e42f906f87da0b23e6dd4e7467473",
-    "THIRD-PARTY-NOTICES.txt": "34a5e60f6c57b920394874d14d3905f1b9dfbb1098ace204d909ee7bb51822d2"
-  },
-  "source_commit": "244e8269535b8101f23987550a5d96601013bb9e",
-  "source_branch": "main",
-  "source_worktree_dirty": true,
-  "source_description": "Andre/Blanka1: MP HP LK HK com sprites tecnicos autorizados; LP/MK e demais acoes preservadas; 56 PNGs. Testes de combate/animacao executados antes da nova orientacao de pedir autorizacao previa; testes seguintes ficam com criador. Guilherme/Gouki e Bareta/Ryu registrados apenas como referencias futuras, sem alteracao de runtime."
+    "index.html": "91af10b58590fe1517ee6c998730c8c75359432409a3adc57891c1097f11d7d4",
+    "game.87d3d814f538357a.js": "87d3d814f538357a5c5fed2731b8a5c50558b879e1dff48b2c20868fbaf61be4",
+    "game.108feaf15af23fb5.wasm": "108feaf15af23fb574c295836ad4653ce39719e1c8987e56a505a2c7c83bf015",
+    "game.1d7aab88c022e4b5.data": "1d7aab88c022e4b5aaabd219d4c7a4340efca33fce52368bc38c44e4f3a32f51",
+    "THIRD-PARTY-NOTICES.txt": "6d2103f28ccec1938ef440054c3d04cc3a20d178cde1bc23eac646332e063bc9"
+  }
 }
