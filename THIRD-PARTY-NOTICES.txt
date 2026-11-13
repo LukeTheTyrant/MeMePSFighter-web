@@ -43,3 +43,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+
+Technical reference animation assets
+Ken / Street Fighter III: arte de referencia Capcom; adaptacao MUGEN GM (2008-08-31).
+Declaracao do criador no chat em 13/11/2026: possui autorizacao do titular para uso tecnico local e confirmou que inclui publicacao online. Nao constitui declaracao de licenca irrestrita.

@@ -1,25 +1,40 @@
 {
+  "profile": "technical",
+  "reference_assets": [
+    {
+      "path": "technical/capota/Capota_Ken_MP_reference_atlas_v1.png",
+      "character_id": "02_cabelo_comprido",
+      "move": "MP",
+      "source": "references/characters/sf3_ken_gm/",
+      "credits": "Ken / Street Fighter III: arte de referencia Capcom; adaptacao MUGEN GM (2008-08-31).",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao do criador no chat em 13/11/2026: possui autorizacao do titular para uso tecnico local e confirmou que inclui publicacao online. Nao constitui declaracao de licenca irrestrita.",
+      "scope": "Quadros originais do MP Ken AIR 210 como animacao provisoria do Capota; somente perfil tecnico.",
+      "sha256": "5f22d535d9e6df1d0414081492882a4af4113d27ea1d3f7e6c3832b99c6c0eb7"
+    }
+  ],
   "files": [
     "index.html",
-    "game.9111a3a5d6664942.js",
-    "game.d01f2465243a0be9.wasm",
-    "game.f29c14795440c6cc.data",
+    "game.a38ba4bf290cc355.js",
+    "game.fb86894a037f3fba.wasm",
+    "game.12121ef7b5dead2f.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.f29c14795440c6cc.data",
-    "index.wasm": "game.d01f2465243a0be9.wasm",
-    "index.js": "game.9111a3a5d6664942.js"
+    "index.data": "game.12121ef7b5dead2f.data",
+    "index.wasm": "game.fb86894a037f3fba.wasm",
+    "index.js": "game.a38ba4bf290cc355.js"
   },
   "files_sha256": {
-    "index.html": "6b7916d888a47ddfb0905ee8c2ad3dd998c1b3117ad1eff14c4271c74f199456",
-    "game.9111a3a5d6664942.js": "9111a3a5d66649422906ae3d1111f24d1dd33f50ba8fc530185c9ac886135a99",
-    "game.d01f2465243a0be9.wasm": "d01f2465243a0be9ce33538eefd7626e1873a95e6b8d0d9b5f118ab32e509bd2",
-    "game.f29c14795440c6cc.data": "f29c14795440c6cc5730bd74681c29ba4d8ead915824c5a446a0ce482623d1ac",
-    "THIRD-PARTY-NOTICES.txt": "79c728c62e332e1ddb3e9fab93200ac74593d2228d66f577e7f924654d288db6"
+    "index.html": "2b584a57f5d0cf0d77f2b6b27aa9a374fd49802e3c02904e19b63882a5b45e99",
+    "game.a38ba4bf290cc355.js": "a38ba4bf290cc3557cd24f442a842dca8e25c37c76c97ec4cc6d6a060dfd782a",
+    "game.fb86894a037f3fba.wasm": "fb86894a037f3fba197bac5e9d9f3e5859eb92632c252b24edf42444924ebb33",
+    "game.12121ef7b5dead2f.data": "12121ef7b5dead2f0bac2ba5f002c01ba6ed024a6760e69a67c53cd1b9a5d771",
+    "THIRD-PARTY-NOTICES.txt": "f9e006c7ccf6f04a9c7689f00dae7c1b45875fe5a042ad3aa2d3786dfa8546a8"
   },
-  "source_branch": "main",
   "source_commit": "a7df8e65dbe83dc43e068ac38fdc831d91dc9534",
+  "source_branch": "main",
   "source_worktree_dirty": true,
-  "source_description": "Otimizacao incremental: preload reduzido de 58 para 52 PNGs, somente seis arquivos comprovadamente sem uso; sprites e logica preservados. Detalhes em assets/reports/web_preload_2026-11-13.json."
+  "source_description": "MP Capota Ken/GM 210 tecnico autorizado, seis comandos e selecao por modo; altera\u00e7\u00f5es locais incluindo selecao previa do preload"
 }
