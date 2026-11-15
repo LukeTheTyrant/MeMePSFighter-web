@@ -44,6 +44,16 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
+Technical reference sprites (opt-in technical build)
+Hyon: selected MP/HP/LK/HK frames from the locally supplied Elena package.
+Elena / Street Fighter: Capcom. Package DEF declares:
+"Phirmost - MvC Patch by Hyacinthero", version 25,04,2011.
+Local source: references/characters/Elena/Elena/; palette palettes/el0.act.
+Use and public distribution are covered by the creator's recorded declaration
+in assets/technical/permissions.json. This is not a claim of an unrestricted
+license or project authorship of the reference art. Full package, sound,
+original AI and other animations are not included in the runtime bundle.
+
 
 Technical reference animation assets
 Ken / Street Fighter III: arte de referencia Capcom; adaptacao MUGEN GM (2008-08-31).
@@ -66,3 +76,5 @@ Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e aviso
 Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
 Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.
 Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.
+Elena / Street Fighter: Capcom; DEF declara Phirmost - MvC Patch by Hyacinthero, 25/04/2011. Originais preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration, para referencias fornecidas; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.

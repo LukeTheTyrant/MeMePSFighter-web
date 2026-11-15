@@ -164,25 +164,42 @@
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.",
       "scope": "MP/HP/LK/HK em pe como visual tecnico temporario do Lucas; pacote original e demais acoes fora do preload.",
       "sha256": "f5e45ace2a0f881ef3ebc69d3df7db4d331db3f831529cccc7377bf6371d0ddc"
+    },
+    {
+      "path": "technical/hyon/Hyon_normals_reference_atlas_v1.png",
+      "character_id": "hyon",
+      "moves": [
+        "MP",
+        "HP",
+        "LK",
+        "HK"
+      ],
+      "source": "references/characters/Elena/Elena/",
+      "credits": "Elena / Street Fighter: Capcom; DEF declara Phirmost - MvC Patch by Hyacinthero, 25/04/2011. Originais preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration, para referencias fornecidas; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
+      "scope": "Somente MP/HP/LK/HK em pe como visual tecnico temporario opt-in do Hyon; demais acoes proprias preservadas.",
+      "sha256": "4033d398560cea284fbbe77f478eb7950b3e28f0babaf69f97c040522800f9a3"
     }
   ],
   "files": [
     "index.html",
-    "game.3547777c6e9e3eb1.js",
-    "game.c2959ae226a87b50.wasm",
-    "game.d2084f000ec433d9.data",
+    "game.5f5549f46a40e740.js",
+    "game.443017f69556d95d.wasm",
+    "game.c2af5d34f90f207b.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.d2084f000ec433d9.data",
-    "index.wasm": "game.c2959ae226a87b50.wasm",
-    "index.js": "game.3547777c6e9e3eb1.js"
+    "index.data": "game.c2af5d34f90f207b.data",
+    "index.wasm": "game.443017f69556d95d.wasm",
+    "index.js": "game.5f5549f46a40e740.js"
   },
   "files_sha256": {
-    "index.html": "2cd9070755369645a0d28871d86847f5d5c8ae38c3777703942b6ed03a866f79",
-    "game.3547777c6e9e3eb1.js": "3547777c6e9e3eb19e5acaebd16e5b0b45545d3e137bb1f81a2737dd211dbf45",
-    "game.c2959ae226a87b50.wasm": "c2959ae226a87b50a086012befd75c46385e8ddb367a8ffd75677203be711563",
-    "game.d2084f000ec433d9.data": "d2084f000ec433d92d0c4443683acdf0a77422c87c5e8f8a796285f93a5198e0",
-    "THIRD-PARTY-NOTICES.txt": "5ecdc91f0b6c8ef97376fc6fd3b10da126202276562b4399bea226d7cc9d9375"
+    "index.html": "518af982e40d4bc68454ec3a94a456b831c05135f419810beb3a9580dac9fd89",
+    "game.5f5549f46a40e740.js": "5f5549f46a40e740ad7087321c9f66836c7c673e6dee4ed44e76252b02a08b68",
+    "game.443017f69556d95d.wasm": "443017f69556d95ddfaab26913f98b497ac0c000b22863c9f130e0b989d3ee55",
+    "game.c2af5d34f90f207b.data": "c2af5d34f90f207ba9846b24a171c8a2910f32e976aa34c15285414995bc0e7f",
+    "THIRD-PARTY-NOTICES.txt": "735679329e25101ccaa9c2166c2b12c26489c7560488c4f7554d1a622dc64fa3"
   }
 }
