@@ -78,3 +78,7 @@ Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; origina
 Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.
 Elena / Street Fighter: Capcom; DEF declara Phirmost - MvC Patch by Hyacinthero, 25/04/2011. Originais preservados.
 Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration, para referencias fornecidas; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Charlie Nash; DEF declara Adamskie; 320.cns credita Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Guile; adaptacao MUGEN keyu, DEF versiondate 02,06,2003. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
