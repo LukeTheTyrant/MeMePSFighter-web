@@ -2,34 +2,6 @@
   "profile": "technical",
   "reference_assets": [
     {
-      "path": "technical/capota/Capota_Ken_MP_reference_atlas_v1.png",
-      "character_id": "02_cabelo_comprido",
-      "move": "MP",
-      "source": "references/characters/sf3_ken_gm/",
-      "credits": "Ken / Street Fighter III: arte de referencia Capcom; adaptacao MUGEN GM (2008-08-31).",
-      "technical_local_authorized": true,
-      "public_distribution_authorized": true,
-      "authorization_basis": "Declaracao do criador no chat em 13/11/2026: possui autorizacao do titular para uso tecnico local e confirmou que inclui publicacao online. Nao constitui declaracao de licenca irrestrita.",
-      "scope": "Quadros originais do MP Ken AIR 210 como animacao provisoria do Capota; somente perfil tecnico.",
-      "sha256": "5f22d535d9e6df1d0414081492882a4af4113d27ea1d3f7e6c3832b99c6c0eb7"
-    },
-    {
-      "path": "technical/capota/Capota_Ken_normals_reference_atlas_v1.png",
-      "character_id": "02_cabelo_comprido",
-      "moves": [
-        "HP",
-        "LK",
-        "HK"
-      ],
-      "source": "references/characters/sf3_ken_gm/",
-      "credits": "Ken / Street Fighter III: Capcom; adaptacao MUGEN GM (2008-08-31).",
-      "technical_local_authorized": true,
-      "public_distribution_authorized": true,
-      "authorization_basis": "Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.",
-      "scope": "Somente movimentos listados em moves, exportados como animacao tecnica provisoria opt-in.",
-      "sha256": "71575db2f9032ab8ddda1a2bd185ce68d9d2fb608ce27b6502dd33291a5619dc"
-    },
-    {
       "path": "technical/estevam/Estevam_Zangief_normals_reference_atlas_v1.png",
       "character_id": "03_barba_camiseta_preta",
       "moves": [
@@ -115,40 +87,6 @@
       "sha256": "a89ecf15fa2c2013dc4b35a0698cb9692c94d00fd74d542e10ca4b6f63fd8c60"
     },
     {
-      "path": "technical/guilherme/Guilherme_normals_reference_atlas_v1.png",
-      "character_id": "guilherme",
-      "moves": [
-        "MP",
-        "HP",
-        "LK",
-        "HK"
-      ],
-      "source": "references/characters/sf3_gouki/",
-      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e avisos preservados.",
-      "technical_local_authorized": true,
-      "public_distribution_authorized": true,
-      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
-      "sha256": "73845ded5094e61532637fec9c760eac1ff31f354f4ec4bdb105e39fad365402"
-    },
-    {
-      "path": "technical/bareta/Bareta_normals_reference_atlas_v1.png",
-      "character_id": "bareta",
-      "moves": [
-        "MP",
-        "HP",
-        "LK",
-        "HK"
-      ],
-      "source": "references/characters/sf3_ryu/",
-      "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN GM. Originais e avisos preservados.",
-      "technical_local_authorized": true,
-      "public_distribution_authorized": true,
-      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "MP/HP/LK/HK em pe como animacoes tecnicas temporarias; somente perfil tecnico opt-in.",
-      "sha256": "6d64f77f521230d9cfc2cb64c36201fb39bc1db7a80c1757f363f4cfba361f38"
-    },
-    {
       "path": "technical/lucas/Lucas_normals_reference_atlas_v1.png",
       "character_id": "lucas",
       "moves": [
@@ -164,23 +102,6 @@
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.",
       "scope": "MP/HP/LK/HK em pe como visual tecnico temporario do Lucas; pacote original e demais acoes fora do preload.",
       "sha256": "f5e45ace2a0f881ef3ebc69d3df7db4d331db3f831529cccc7377bf6371d0ddc"
-    },
-    {
-      "path": "technical/hyon/Hyon_normals_reference_atlas_v1.png",
-      "character_id": "hyon",
-      "moves": [
-        "MP",
-        "HP",
-        "LK",
-        "HK"
-      ],
-      "source": "references/characters/Elena/Elena/",
-      "credits": "Elena / Street Fighter: Capcom; DEF declara Phirmost - MvC Patch by Hyacinthero, 25/04/2011. Originais preservados.",
-      "technical_local_authorized": true,
-      "public_distribution_authorized": true,
-      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration, para referencias fornecidas; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Somente MP/HP/LK/HK em pe como visual tecnico temporario opt-in do Hyon; demais acoes proprias preservadas.",
-      "sha256": "4033d398560cea284fbbe77f478eb7950b3e28f0babaf69f97c040522800f9a3"
     },
     {
       "path": "technical/nicoletti/Nicoletti_normals_reference_atlas_v1.png",
@@ -215,25 +136,101 @@
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.",
       "scope": "Somente MP/HP/LK/HK em pe, como visual tecnico temporario opt-in; LP/MK e demais pinturas proprias preservados.",
       "sha256": "0f027ebaeed4aecb46175a8719854c18a2eaabc3f4c817630dbb5d4ae317de3d"
+    },
+    {
+      "path": "technical/bareta/Bareta_reference_refresh_atlas_v1.png",
+      "character_id": "bareta",
+      "moves": [
+        "LP",
+        "MP",
+        "HP",
+        "LK",
+        "MK",
+        "HK"
+      ],
+      "source": "references/characters/ryu/ryu/",
+      "credits": "Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
+      "scope": "Seis normais em pe como visual tecnico temporario opt-in. Demais artes proprias preservadas; pacote completo fora do runtime.",
+      "sha256": "a2593783092d98e65e36488cf9d8cce09864000acd193c5115b77c86ae2e5047"
+    },
+    {
+      "path": "technical/capota/Capota_reference_refresh_atlas_v1.png",
+      "character_id": "02_cabelo_comprido",
+      "moves": [
+        "LP",
+        "MP",
+        "HP",
+        "LK",
+        "MK",
+        "HK"
+      ],
+      "source": "references/characters/Ken [Charlzn64]/KEN5/",
+      "credits": "Capota: referencia Street Fighter / Capcom; pacote Charlzn64 (DEF 07,17,2000). Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
+      "scope": "Seis normais em pe como visual tecnico temporario opt-in. Demais artes proprias preservadas; pacote completo fora do runtime.",
+      "sha256": "ab5ac68a81eca6acffa31909b8bebb01e53c42073cac656543f3101d504fc318"
+    },
+    {
+      "path": "technical/guilherme/Guilherme_reference_refresh_atlas_v1.png",
+      "character_id": "guilherme",
+      "moves": [
+        "LP",
+        "MP",
+        "HP",
+        "LK",
+        "MK",
+        "HK"
+      ],
+      "source": "references/characters/Akuma [Ehnyd]/SFZ_Akuma/",
+      "credits": "Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
+      "scope": "Seis normais em pe como visual tecnico temporario opt-in. Demais artes proprias preservadas; pacote completo fora do runtime.",
+      "sha256": "0094859cc590aa32132f7eced01d60b0869e191a6b4f32e5b8ce2306150dc10f"
+    },
+    {
+      "path": "technical/hyon/Hyon_reference_refresh_atlas_v1.png",
+      "character_id": "hyon",
+      "moves": [
+        "LP",
+        "MP",
+        "HP",
+        "LK",
+        "MK",
+        "HK"
+      ],
+      "source": "references/characters/Dee Jay [BlackJack]/dee/",
+      "credits": "Hyon: referencia Street Fighter / Capcom; pacote BlackJack / The BITS Team; creditos BlackBocs no DEE JAY.txt. Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
+      "scope": "Seis normais em pe como visual tecnico temporario opt-in. Demais artes proprias preservadas; pacote completo fora do runtime.",
+      "sha256": "a67bbee411e711b4405c0434f3079c24d3e37ce58d4316b02435debedb1f2190"
     }
   ],
   "files": [
     "index.html",
-    "game.ce52bb018ffc44da.js",
-    "game.29b57f8edb8e9218.wasm",
-    "game.0f7fd494f4a51264.data",
+    "game.3a9e415336bf5877.js",
+    "game.bfacb9ea20e90fbe.wasm",
+    "game.f8e4f5e39dc04052.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.0f7fd494f4a51264.data",
-    "index.wasm": "game.29b57f8edb8e9218.wasm",
-    "index.js": "game.ce52bb018ffc44da.js"
+    "index.data": "game.f8e4f5e39dc04052.data",
+    "index.wasm": "game.bfacb9ea20e90fbe.wasm",
+    "index.js": "game.3a9e415336bf5877.js"
   },
   "files_sha256": {
-    "index.html": "38c7d19be94a41cc5aee85adc19fa36021d9e729bb9ef7dd8ce651c1764d41e9",
-    "game.ce52bb018ffc44da.js": "ce52bb018ffc44da37a9c552cd41d37f4dbaf8377c81aa8d6bc9dbec1aecac7e",
-    "game.29b57f8edb8e9218.wasm": "29b57f8edb8e9218d405b9bc781599ad61c8a1946e78b778f02de4233269db16",
-    "game.0f7fd494f4a51264.data": "0f7fd494f4a5126475d3f58072fdcad7404397518e035d82247f3786d172b2cd",
-    "THIRD-PARTY-NOTICES.txt": "f53a2538cd614422f91a11fe309ad719a7b428b9000092ac1b35cfab79ba936c"
+    "index.html": "1197275cc3e06a1eb51480e37e27ee02d7203f4ccc039c5aa855c517b0f9f86b",
+    "game.3a9e415336bf5877.js": "3a9e415336bf5877f473f306d8347d0c168c57f879439d6936539fecb970b806",
+    "game.bfacb9ea20e90fbe.wasm": "bfacb9ea20e90fbe0376356c38c1dfbe59a6c23b22ffadd01fccc523cf55c55c",
+    "game.f8e4f5e39dc04052.data": "f8e4f5e39dc0405262be2371cbcb514409cc9958b585dfaaccaad54c222568b6",
+    "THIRD-PARTY-NOTICES.txt": "3cf7cac6515752f0d0e7836826a7db034b7f7dc46ee6147f5cc22053a908e4ba"
   }
 }
