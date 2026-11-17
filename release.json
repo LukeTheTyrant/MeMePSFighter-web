@@ -216,20 +216,20 @@
   ],
   "files": [
     "index.html",
-    "game.3a9e415336bf5877.js",
-    "game.bfacb9ea20e90fbe.wasm",
+    "game.6bce709a30e5cf02.js",
+    "game.11d4f1ce8d4439e0.wasm",
     "game.f8e4f5e39dc04052.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
     "index.data": "game.f8e4f5e39dc04052.data",
-    "index.wasm": "game.bfacb9ea20e90fbe.wasm",
-    "index.js": "game.3a9e415336bf5877.js"
+    "index.wasm": "game.11d4f1ce8d4439e0.wasm",
+    "index.js": "game.6bce709a30e5cf02.js"
   },
   "files_sha256": {
-    "index.html": "1197275cc3e06a1eb51480e37e27ee02d7203f4ccc039c5aa855c517b0f9f86b",
-    "game.3a9e415336bf5877.js": "3a9e415336bf5877f473f306d8347d0c168c57f879439d6936539fecb970b806",
-    "game.bfacb9ea20e90fbe.wasm": "bfacb9ea20e90fbe0376356c38c1dfbe59a6c23b22ffadd01fccc523cf55c55c",
+    "index.html": "652b7a3e53d70c80e691212281bcbe38007c991849b7d2c77aeb57bdfb73ca0d",
+    "game.6bce709a30e5cf02.js": "6bce709a30e5cf02eb8f8fed63049ce16178c5fb842a9ee5ffaa43016fd43bd8",
+    "game.11d4f1ce8d4439e0.wasm": "11d4f1ce8d4439e0fb9a3b82b0268912fcca53464c2c95b722374a8fac81b275",
     "game.f8e4f5e39dc04052.data": "f8e4f5e39dc0405262be2371cbcb514409cc9958b585dfaaccaad54c222568b6",
     "THIRD-PARTY-NOTICES.txt": "3cf7cac6515752f0d0e7836826a7db034b7f7dc46ee6147f5cc22053a908e4ba"
   }
