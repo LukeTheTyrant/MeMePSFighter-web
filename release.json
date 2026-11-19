@@ -1154,25 +1154,53 @@
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.",
       "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "508033b02c7af07a07cefc8b942387ae0264f13e34ea500ace11fb5ee943275f"
+    },
+    {
+      "path": "technical/guilherme/Guilherme_compound_reference_atlas_v1.png",
+      "character_id": "guilherme",
+      "moves": [
+        "Quadros de ramifica\u00e7\u00f5es j\u00e1 existentes nas refer\u00eancias fornecidas"
+      ],
+      "source": "references/characters/Akuma [Ehnyd]/SFZ_Akuma/",
+      "credits": "Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
+      "scope": "Recortes sem redimensionamento ou retoque. Atlas t\u00e9cnico adicional.",
+      "sha256": "65c3d7727635964bebaccc9dfc47374a572bcf1ab89878531aba03b4a07d050a"
+    },
+    {
+      "path": "technical/lucas/Lucas_compound_reference_atlas_v1.png",
+      "character_id": "lucas",
+      "moves": [
+        "Quadros de ramifica\u00e7\u00f5es j\u00e1 existentes nas refer\u00eancias fornecidas"
+      ],
+      "source": "references/characters/guy/",
+      "credits": "Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.",
+      "technical_local_authorized": true,
+      "public_distribution_authorized": true,
+      "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.",
+      "scope": "Recortes sem redimensionamento ou retoque. Atlas t\u00e9cnico adicional.",
+      "sha256": "cff06747efbe317e4436e87f05dacce79600a092e78e5fc0d60bb4b62322f368"
     }
   ],
   "files": [
     "index.html",
-    "game.6dc25ed23997fc02.js",
-    "game.05a3a16b1b1a5991.wasm",
-    "game.5ff6d32ccbd6c762.data",
+    "game.0449c00f957871b2.js",
+    "game.df889de57f78a0df.wasm",
+    "game.ab1904b1386b84a5.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.5ff6d32ccbd6c762.data",
-    "index.wasm": "game.05a3a16b1b1a5991.wasm",
-    "index.js": "game.6dc25ed23997fc02.js"
+    "index.data": "game.ab1904b1386b84a5.data",
+    "index.wasm": "game.df889de57f78a0df.wasm",
+    "index.js": "game.0449c00f957871b2.js"
   },
   "files_sha256": {
-    "index.html": "f96bf2500b7e3a24f2910a8a5523d6214333b327a1884861adaaa6c6fdf7c2c0",
-    "game.6dc25ed23997fc02.js": "6dc25ed23997fc02eb6dfa1f360366cc79c977114b1a9e073a37b9f4f6547821",
-    "game.05a3a16b1b1a5991.wasm": "05a3a16b1b1a5991877c9097b6e98bc60bbec6b9c7b872d72862f6c57c81b386",
-    "game.5ff6d32ccbd6c762.data": "5ff6d32ccbd6c762ce0b1a510e1e68d039b8dc47f7853e75767522df010af029",
-    "THIRD-PARTY-NOTICES.txt": "41786ed882d07cbea8eec405969742a0767b5323189097ea9585496e17c05493"
+    "index.html": "2274484df267880b1b710f835ff8b1a50677a9948cc812e069ceb1e05f853e18",
+    "game.0449c00f957871b2.js": "0449c00f957871b2742e74e1e44650443d696d3ec0e33445a42fe1a19d19afb2",
+    "game.df889de57f78a0df.wasm": "df889de57f78a0df82f0beb72f82ee3a02075489d7def6d568e2abaa1447fae8",
+    "game.ab1904b1386b84a5.data": "ab1904b1386b84a504a98f1fbbeb53b5db695727acbf89a61ad178eb07a5363f",
+    "THIRD-PARTY-NOTICES.txt": "c31aa2dd64105a26cfd1e64ea7d7f1d934dc3b5d6396da3fa289030d686846aa"
   }
 }
