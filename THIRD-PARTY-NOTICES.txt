@@ -86,3 +86,91 @@ Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Eh
 Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
 Hyon: referencia Street Fighter / Capcom; pacote BlackJack / The BITS Team; creditos BlackBocs no DEE JAY.txt. Originais e avisos preservados.
 Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN VK; atualizacao Dripht. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Blanka / Street Fighter: Capcom; adaptacao MUGEN H” (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.
+Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.
+Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Capota: referencia Street Fighter / Capcom; pacote Charlzn64 (DEF 07,17,2000). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.
+Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
+Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Hyon: referencia Street Fighter / Capcom; pacote BlackJack / The BITS Team; creditos BlackBocs no DEE JAY.txt. Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Guile; adaptacao MUGEN keyu, DEF versiondate 02,06,2003. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Charlie Nash; DEF declara Adamskie; 320.cns credita Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN VK; atualizacao Dripht. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Capota: referencia Street Fighter / Capcom; pacote Charlzn64 (DEF 07,17,2000). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Hyon: referencia Street Fighter / Capcom; pacote BlackJack / The BITS Team; creditos BlackBocs no DEE JAY.txt. Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Guile; adaptacao MUGEN keyu, DEF versiondate 02,06,2003. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Charlie Nash; DEF declara Adamskie; 320.cns credita Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN VK; atualizacao Dripht. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Blanka / Street Fighter: Capcom; adaptacao MUGEN H” (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.
+Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.
+Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Capota: referencia Street Fighter / Capcom; pacote Charlzn64 (DEF 07,17,2000). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.
+Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
+Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Hyon: referencia Street Fighter / Capcom; pacote BlackJack / The BITS Team; creditos BlackBocs no DEE JAY.txt. Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Guile; adaptacao MUGEN keyu, DEF versiondate 02,06,2003. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Charlie Nash; DEF declara Adamskie; 320.cns credita Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN VK; atualizacao Dripht. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Blanka / Street Fighter: Capcom; adaptacao MUGEN H” (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.
+Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.
+Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Capota: referencia Street Fighter / Capcom; pacote Charlzn64 (DEF 07,17,2000). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.
+Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.
+Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.
+Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Guile; adaptacao MUGEN keyu, DEF versiondate 02,06,2003. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
+Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.
+Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.
+Charlie Nash; DEF declara Adamskie; 320.cns credita Ehnyd. Originais e avisos preservados.
+Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.
