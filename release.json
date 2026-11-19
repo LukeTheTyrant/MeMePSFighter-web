@@ -580,7 +580,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "a1a7fe67ab1e0288ad03fd8e25dd345e73926973dc37f7e3aa8788aa6e4ac332"
     },
     {
@@ -589,15 +589,18 @@
       "moves": [
         "QuarterCircle LP",
         "QuarterCircle MP",
-        "QuarterCircle HP"
+        "QuarterCircle HP",
+        "HalfForward LP",
+        "HalfForward MP",
+        "HalfForward HP"
       ],
       "source": "references/characters/ryu/ryu/",
       "credits": "Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "774d509e06b8977a114988135d3bd579463d6b03d14648d44cabddc9cc1a850e"
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "ac866a3d1434d7489035f3cf59efec17ee4ff991bd37ec3ca5ca520a17ffcd92"
     },
     {
       "path": "technical/capota/Capota_projectile_moves_atlas_v1.png",
@@ -605,15 +608,18 @@
       "moves": [
         "QuarterCircle LP",
         "QuarterCircle MP",
-        "QuarterCircle HP"
+        "QuarterCircle HP",
+        "QuarterCircle LP a\u00e9reo",
+        "QuarterCircle MP a\u00e9reo",
+        "QuarterCircle HP a\u00e9reo"
       ],
       "source": "references/characters/Ken [Charlzn64]/KEN5/",
       "credits": "Capota: referencia Street Fighter / Capcom; pacote Charlzn64 (DEF 07,17,2000). Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "7c4c4f282a5401bdec7b3413fd91f511453284fc4019492ab14bf09bcfd4cf7b"
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "f774b709d671f1ef4926745e74671d01c26a51e832f8931032fa52fe85b66eef"
     },
     {
       "path": "technical/guilherme/Guilherme_projectile_moves_atlas_v1.png",
@@ -624,15 +630,18 @@
         "QuarterCircle HP",
         "HalfBack LP",
         "HalfBack MP",
-        "HalfBack HP"
+        "HalfBack HP",
+        "QuarterCircle LP a\u00e9reo",
+        "QuarterCircle MP a\u00e9reo",
+        "QuarterCircle HP a\u00e9reo"
       ],
       "source": "references/characters/Akuma [Ehnyd]/SFZ_Akuma/",
       "credits": "Guilherme: referencia Street Fighter / Capcom; pacote Original M.M.R.; editor Ehnyd (DEF 07,06,2003). Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "5fdce3ea83b415badc3ba75233a4a3c40b012874403b6be8d43dfddf74ab779a"
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "31f7080b85cb59f250be15ee23beaf3f9cdd82d5503bb741527ad1130f88b450"
     },
     {
       "path": "technical/gustavo/Gustavo_projectile_moves_atlas_v1.png",
@@ -650,7 +659,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "39424575b2f9fa2322ed5cecb4194a6d276ac729c913ecd6ad759d9422b01f1d"
     },
     {
@@ -666,7 +675,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "cf4fe267771484cec5950a82138a3b30e8d407217c426c04053675d8d339a3f3"
     },
     {
@@ -682,7 +691,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "c7486d8ec09f3acf440a40392f72498b0bda91e88684a421fb4f46f3eb3d7919"
     },
     {
@@ -698,7 +707,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "b5518a949a87caaf249b806c4e9f6b08ab2dc81bffe7a05219324bbd1d645726"
     },
     {
@@ -714,7 +723,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.",
-      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis terrestres sem barra, como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Conjura\u00e7\u00f5es e proj\u00e9teis selecionados sem barra, como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "5dd5ea400e784326c6a4664cf71e261c41612ba3668ea95f5b7e054df238fd15"
     },
     {
@@ -742,7 +751,13 @@
         "Repeated HP",
         "BackCharge LP",
         "BackCharge MP",
-        "BackCharge HP"
+        "BackCharge HP",
+        "BackCharge LK",
+        "BackCharge MK",
+        "BackCharge HK",
+        "DownCharge LK",
+        "DownCharge MK",
+        "DownCharge HK"
       ],
       "source": "references/characters/blanka1/",
       "credits": "Blanka / Street Fighter: Capcom; adaptacao MUGEN H\u201d (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.",
@@ -750,7 +765,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "5316034f1ae6c12b3e03541a52711b4106446b3ade25c120814c3b871404a23e"
+      "sha256": "36b27e8bfea60821ea7ebe581204a130f13122c3e2f2219ec8c12c35b95ee646"
     },
     {
       "path": "technical/bareta/Bareta_melee_moves_atlas_v1.png",
@@ -761,6 +776,13 @@
         "DragonPunch HP",
         "QuarterBack LK",
         "QuarterBack MK",
+        "QuarterBack HK",
+        "ForwardTriple LP",
+        "ForwardTriple LK",
+        "BackTriple LP",
+        "BackTriple LK",
+        "QuarterBack LK",
+        "QuarterBack MK",
         "QuarterBack HK"
       ],
       "source": "references/characters/ryu/ryu/",
@@ -769,7 +791,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "1fe0969081ae4aede7a95de94f3980a0acba0c2116a35d829a58bade6520fcf7"
+      "sha256": "1c322063492e682a497073ebc9a17af7cb69e09ec0cc6764405bf1598bbacddc"
     },
     {
       "path": "technical/capota/Capota_melee_moves_atlas_v1.png",
@@ -780,6 +802,12 @@
         "DragonPunch HP",
         "QuarterBack LK",
         "QuarterBack MK",
+        "QuarterBack HK",
+        "QuarterBack LP",
+        "QuarterBack MP",
+        "QuarterBack HP",
+        "QuarterBack LK",
+        "QuarterBack MK",
         "QuarterBack HK"
       ],
       "source": "references/characters/Ken [Charlzn64]/KEN5/",
@@ -788,7 +816,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "1e08aa50bcdb62ef15fb4f7bdbe5b5617074fce7457edea28d866fea7febfd59"
+      "sha256": "f710479cf4683560484192f24325c0c9769f329f8f0ab9a6e8a390c374a29959"
     },
     {
       "path": "technical/estevam/Estevam_melee_moves_atlas_v1.png",
@@ -817,6 +845,16 @@
         "DragonPunch HP",
         "QuarterBack LK",
         "QuarterBack MK",
+        "QuarterBack HK",
+        "QuarterBack LP",
+        "QuarterBack MP",
+        "QuarterBack HP",
+        "ForwardTriple LP",
+        "ForwardTriple LK",
+        "BackTriple LP",
+        "BackTriple LK",
+        "QuarterBack LK",
+        "QuarterBack MK",
         "QuarterBack HK"
       ],
       "source": "references/characters/Akuma [Ehnyd]/SFZ_Akuma/",
@@ -825,7 +863,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "fd81cad971f15cace45f6d4e8cc7b9742312c310d98a2cde9fc7fa8ead971525"
+      "sha256": "20a8a43b42df125728a5f071a56811791c73983426a8b52445ffa0b9737b2fbd"
     },
     {
       "path": "technical/gustavo/Gustavo_melee_moves_atlas_v1.png",
@@ -852,7 +890,12 @@
       "moves": [
         "BackCharge LK",
         "BackCharge MK",
-        "BackCharge HK"
+        "BackCharge HK",
+        "QuarterCircle LP",
+        "QuarterCircle MP",
+        "QuarterCircle LK",
+        "QuarterCircle MK",
+        "QuarterCircle HK"
       ],
       "source": "references/characters/Dee Jay [BlackJack]/dee/",
       "credits": "Hyon: referencia Street Fighter / Capcom; pacote BlackJack / The BITS Team; creditos BlackBocs no DEE JAY.txt. Originais e avisos preservados.",
@@ -860,7 +903,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "02dbc1f9d192278440ef0af7779301ae878eabd419237f4f3113f59c0959c4e8"
+      "sha256": "0f84629d9d76c7c1496a56751af562ea530843e6168401473cb710e7c5ab0c7c"
     },
     {
       "path": "technical/leonardo/Leonardo_melee_moves_atlas_v1.png",
@@ -884,7 +927,10 @@
       "moves": [
         "QuarterBack LP",
         "QuarterBack MP",
-        "QuarterBack HP"
+        "QuarterBack HP",
+        "QuarterBack LK",
+        "QuarterBack MK",
+        "QuarterBack HK"
       ],
       "source": "references/characters/guy/",
       "credits": "Guy / Capcom; adaptacao MUGEN Beximus, DEF 30/09/2009. Paleta guy01.act; originais e avisos preservados.",
@@ -892,7 +938,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "d2a4f68b0cb5ace4d8f735cb40568db77a68c6d965f12ba115f572d99db5d896"
+      "sha256": "21dc1709eb416717a7539484137be8df155d13208f590cbdcb7a990882226cfc"
     },
     {
       "path": "technical/nicky/Nicky_melee_moves_atlas_v1.png",
@@ -900,7 +946,18 @@
       "moves": [
         "HalfBack LK",
         "HalfBack MK",
-        "HalfBack HK"
+        "HalfBack HK",
+        "DragonPunch LP",
+        "DragonPunch LK",
+        "ReverseDragonPunch LP",
+        "ReverseDragonPunch LK",
+        "DragonPunch LP",
+        "DragonPunch LK",
+        "ReverseDragonPunch LP",
+        "ReverseDragonPunch LK",
+        "HalfBack LP",
+        "HalfBack MP",
+        "HalfBack HP"
       ],
       "source": "references/characters/Dhalsim_A/",
       "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.",
@@ -908,7 +965,7 @@
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
       "scope": "Especiais corpo a corpo selecionados como anima\u00e7\u00e3o t\u00e9cnica provis\u00f3ria.",
-      "sha256": "0781320a7c6b7d2e5a9386f6c6d480a8e8bf70da7b56b628aa045a134d1ee865"
+      "sha256": "44554be5337295a072df6eff9579cfdb44f37887b5f4c09563d2d5e34c3f43b3"
     },
     {
       "path": "technical/nicoletti/Nicoletti_melee_moves_atlas_v1.png",
@@ -930,44 +987,47 @@
       "path": "technical/altair/Altair_throw_moves_atlas_v1.png",
       "character_id": "01_oculos_polo",
       "moves": [
-        "Agarr\u00e3o terrestre"
+        "Agarr\u00e3o terrestre",
+        "Agarr\u00e3o a\u00e9reo"
       ],
       "source": "references/characters/mbison0/",
       "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN VK; atualizacao Dripht. Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "8bc110b618f3f29fb15726c0a360d3b308a38ba9f72287786e5a75508723b252"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "6e128f8350aaca87e4a2a757aa533a7a2c2959f62add07abcef5fe656f4bf2d9"
     },
     {
       "path": "technical/andre/Andre_throw_moves_atlas_v1.png",
       "character_id": "04_jaqueta_escura",
       "moves": [
-        "Agarr\u00e3o terrestre"
+        "Agarr\u00e3o terrestre",
+        "Agarr\u00e3o a\u00e9reo"
       ],
       "source": "references/characters/blanka1/",
       "credits": "Blanka / Street Fighter: Capcom; adaptacao MUGEN H\u201d (DEF 2002-08-24), pal1 act/blanka04.ACT. Avisos originais preservados no pacote.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 para uso tecnico local e publicacao online das referencias de sprites que fornecer, registrada em creator_declaration. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "20cf88486c6b6487297ef089d44eb5f68dcb36005bdab5ca85cabaf9d37bfcdb"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "ec010870a8d9a2dbc1819599e8a0a8310fc760e3787fe9922be9538c5e2ebb4b"
     },
     {
       "path": "technical/bareta/Bareta_throw_moves_atlas_v1.png",
       "character_id": "bareta",
       "moves": [
         "Agarr\u00e3o terrestre",
-        "Agarr\u00e3o terrestre para tr\u00e1s"
+        "Agarr\u00e3o terrestre para tr\u00e1s",
+        "Agarr\u00e3o a\u00e9reo"
       ],
       "source": "references/characters/ryu/ryu/",
       "credits": "Bareta: referencia Street Fighter / Capcom; pacote adamskie; edicao MH Styles (DEF 12/23/2021). Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "f475d1ad823141c7a1eaefbc773dc074b57d9f7af4bc1b5ecab307291c4d93a6"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "7372b357cdb13788030de2db1031d37f66d19829a1c13df7167ea7a26c99bc7a"
     },
     {
       "path": "technical/capota/Capota_throw_moves_atlas_v1.png",
@@ -981,7 +1041,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "9acd55e236bdf2f50ccf64736d85ff288bfcdcc1bc4f4483267922cf74e30a35"
     },
     {
@@ -989,15 +1049,19 @@
       "character_id": "03_barba_camiseta_preta",
       "moves": [
         "Agarr\u00e3o terrestre",
-        "Agarr\u00e3o terrestre para tr\u00e1s"
+        "Agarr\u00e3o terrestre para tr\u00e1s",
+        "Agarr\u00e3o a\u00e9reo",
+        "SPD LP",
+        "SPD MP",
+        "SPD HP"
       ],
       "source": "references/characters/zangief_dark_shade/",
       "credits": "Zangief / Street Fighter: Capcom; adaptacao MUGEN dark-shade (20.04.2014), modo normal, paleta Default.act.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Criador confirmou no chat de 13/11/2026 autorizacao do titular para uso tecnico local e publicacao online das referencias de sprites fornecidas. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "4792eba42a0f511536d8349d678afea6666c9bae474e8238c1ea1deefbd095fb"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "f1d2958fe8cbf743c647a58de752ee88d085764198c98fcf86b953533c7581f2"
     },
     {
       "path": "technical/guilherme/Guilherme_throw_moves_atlas_v1.png",
@@ -1011,7 +1075,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador de 13/11/2026 em creator_declaration, para referencias fornecidas, incluindo uso tecnico e publicacao online; troca destes pacotes e integracao dos seis golpes solicitadas em 16/11/2026. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "66d62566123c892d8ff066006dcf08d5589c68a482c0ac549d61ae96d17b13d7"
     },
     {
@@ -1019,15 +1083,16 @@
       "character_id": "gustavo",
       "moves": [
         "Agarr\u00e3o terrestre para tr\u00e1s",
-        "Agarr\u00e3o terrestre"
+        "Agarr\u00e3o terrestre",
+        "Agarr\u00e3o a\u00e9reo"
       ],
       "source": "references/characters/SFZ_Sagat/",
       "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Ehnyd. Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "3d421b1054aade956f18fadef2d53c89c26ba240df0c29934edacacfb8808e7b"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "d049b2840bf7905e4c7d71be04bdc4c4d2442dc0344ee726687358775dc59043"
     },
     {
       "path": "technical/leonardo/Leonardo_throw_moves_atlas_v1.png",
@@ -1041,7 +1106,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "74fe0cc81bcda69b322df1451adcf2bffb057b973bee9158a58191bbd8bcb492"
     },
     {
@@ -1055,7 +1120,7 @@
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration, para referencias fornecidas, incluindo uso tecnico local e publicacao online; nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
       "sha256": "f64b1237649b120f3a821b320d193934a7bfee8778c9bea9dbd417b0ee070215"
     },
     {
@@ -1063,48 +1128,51 @@
       "character_id": "nicky",
       "moves": [
         "Agarr\u00e3o terrestre",
-        "Agarr\u00e3o terrestre para tr\u00e1s"
+        "Agarr\u00e3o terrestre para tr\u00e1s",
+        "Agarr\u00e3o a\u00e9reo",
+        "Agarr\u00e3o a\u00e9reo para tr\u00e1s"
       ],
       "source": "references/characters/Dhalsim_A/",
       "credits": "Arte de referencia Street Fighter: Capcom; adaptacao MUGEN Felicity. Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026, registrada em creator_declaration; inclui uso tecnico local e publicacao online. Nao implica licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "084d096c75de2c3a188041698a3f10734a09fe616a740d642f78a48d0ec07eb3"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "4f935388532ca5f0adcd328f8b8823c5fadd7a2aaeeae55d8812d2db315ea8ee"
     },
     {
       "path": "technical/nicoletti/Nicoletti_throw_moves_atlas_v1.png",
       "character_id": "nicoletti",
       "moves": [
-        "Agarr\u00e3o terrestre"
+        "Agarr\u00e3o terrestre",
+        "Agarr\u00e3o a\u00e9reo"
       ],
       "source": "references/characters/SFZ_Charlie/",
       "credits": "Charlie Nash; DEF declara Adamskie; 320.cns credita Ehnyd. Originais e avisos preservados.",
       "technical_local_authorized": true,
       "public_distribution_authorized": true,
       "authorization_basis": "Declaracao geral do criador no chat de 13/11/2026 registrada em creator_declaration para todas as referencias fornecidas; inclui uso tecnico local e publicacao online, sem licenca irrestrita.",
-      "scope": "Tentativas e poses de agarr\u00e3o terrestre como visual t\u00e9cnico provis\u00f3rio.",
-      "sha256": "fff2a0319bc31d61b1fb16db7a4458272b1ea14575155f386db133e85c24f9ee"
+      "scope": "Tentativas e poses de agarr\u00e3o selecionadas como visual t\u00e9cnico provis\u00f3rio.",
+      "sha256": "508033b02c7af07a07cefc8b942387ae0264f13e34ea500ace11fb5ee943275f"
     }
   ],
   "files": [
     "index.html",
-    "game.be3b1ee11dc30406.js",
-    "game.578d28dcba7eaef6.wasm",
-    "game.3c417bade6d595cf.data",
+    "game.6dc25ed23997fc02.js",
+    "game.05a3a16b1b1a5991.wasm",
+    "game.5ff6d32ccbd6c762.data",
     "THIRD-PARTY-NOTICES.txt"
   ],
   "mapping": {
-    "index.data": "game.3c417bade6d595cf.data",
-    "index.wasm": "game.578d28dcba7eaef6.wasm",
-    "index.js": "game.be3b1ee11dc30406.js"
+    "index.data": "game.5ff6d32ccbd6c762.data",
+    "index.wasm": "game.05a3a16b1b1a5991.wasm",
+    "index.js": "game.6dc25ed23997fc02.js"
   },
   "files_sha256": {
-    "index.html": "0006923be45836db1cc3409cc23414208dc359c55bb5c243d8d7104b34526b35",
-    "game.be3b1ee11dc30406.js": "be3b1ee11dc30406dce00f2b9cd1b0571f71f03fd1e374cf79570588894c1895",
-    "game.578d28dcba7eaef6.wasm": "578d28dcba7eaef6da1c5aa5ea164f274bbc7aace5bddcd84faaa1213dbe4d39",
-    "game.3c417bade6d595cf.data": "3c417bade6d595cff40bfe108a3dbc51061bed311ee00ba4f4822c3a07e458cd",
+    "index.html": "f96bf2500b7e3a24f2910a8a5523d6214333b327a1884861adaaa6c6fdf7c2c0",
+    "game.6dc25ed23997fc02.js": "6dc25ed23997fc02eb6dfa1f360366cc79c977114b1a9e073a37b9f4f6547821",
+    "game.05a3a16b1b1a5991.wasm": "05a3a16b1b1a5991877c9097b6e98bc60bbec6b9c7b872d72862f6c57c81b386",
+    "game.5ff6d32ccbd6c762.data": "5ff6d32ccbd6c762ce0b1a510e1e68d039b8dc47f7853e75767522df010af029",
     "THIRD-PARTY-NOTICES.txt": "41786ed882d07cbea8eec405969742a0767b5323189097ea9585496e17c05493"
   }
 }
